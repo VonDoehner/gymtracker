@@ -6,7 +6,20 @@
 
 #LogoHead{
     width: 40vh;
-    position: absolute
-    
+    position: fixed;
+    left: 30%
+}
+
+#MenueHead{
+    width: 5vh;
+    position: relative;
+    left:
+}
+
+#AnmeldenHead{
+    width: 5vh;
+    position: relative;
+    left: 68vh;
+    top: 1.25vh;
 
 }
